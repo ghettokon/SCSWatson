@@ -10,15 +10,15 @@ exports.voice = 'en-US_MichaelVoice';
 
 // Credentials for Watson Speech to Text service
 
-exports.STTPassword = 'xxxxxx' ;
-exports.STTUsername = 'xxx-xxx-xxx' ;
+exports.STTPassword = 'MFNTZxQvS1zO' ;
+exports.STTUsername = 'b10fe768-45bc-4d02-9aba-f08325c0f38e' ;
 
 
 // Credentials for Watson Conversation service
-exports.ConPassword = 'xxxxxx' ;
-exports.ConUsername = 'xxx-xxx-xxx' ;
-exports.ConWorkspace = 'xxx-xxx-xxx';
+exports.ConPassword = 'H41QI52v2n70' ;
+exports.ConUsername = '1d276066-0e6d-4ae5-9fe7-05a6f5c7f471' ;
+exports.ConWorkspace = '970372c7-0ff7-4663-8c5a-d77567f80cd3';
 
 //Credentials for Watson Text to Speech service
-exports.TTSPassword = 'xxxxxx' ; 
-exports.TTSUsername = 'xxx-xxx-xxx' ;
+exports.TTSPassword = 'mzYyXfU7M5my' ; 
+exports.TTSUsername = 'b589ac9a-3a83-4670-b561-0dbb3761c3e4' ;
